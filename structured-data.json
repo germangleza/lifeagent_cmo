@@ -1,0 +1,275 @@
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "@id": "https://lifeagentcmo.com/#software",
+    "name": "Life Agent CMO",
+    "alternateName": ["Life Agent", "LifeAgent CMO", "CMO con IA"],
+    "description": "Life Agent CMO es el primer Chief Marketing Officer con inteligencia artificial para PYMEs. Conecta y gestiona campañas de Meta Ads y Google Ads, analiza métricas en tiempo real, responde a clientes vía un agente de CRM conversacional, optimiza SEO y GEO, y ejecuta estrategia de marketing de forma autónoma y continua.",
+    "url": "https://lifeagentcmo.com",
+    "applicationCategory": "BusinessApplication",
+    "applicationSubCategory": "Marketing Automation",
+    "operatingSystem": "Web",
+    "offers": [
+      {
+        "@type": "Offer",
+        "name": "Starter",
+        "price": "99",
+        "priceCurrency": "USD",
+        "billingIncrement": "P1M",
+        "description": "Meta Ads, SEO básico, CRM 100 conversaciones, Creative Studio 10 posts/mes",
+        "url": "https://lifeagentcmo.com/precios"
+      },
+      {
+        "@type": "Offer",
+        "name": "Growth — Founding Member",
+        "price": "249",
+        "priceCurrency": "USD",
+        "billingIncrement": "P1M",
+        "description": "Todo Starter más Google Ads, metas CPL/CPA/MRR, CRM ilimitado, SEO/GEO avanzado, generación de blogs, reportes semanales automáticos",
+        "url": "https://lifeagentcmo.com/precios"
+      },
+      {
+        "@type": "Offer",
+        "name": "Agency",
+        "price": "599",
+        "priceCurrency": "USD",
+        "billingIncrement": "P1M",
+        "description": "Hasta 10 clientes, white-label dashboard, multi-workspace, soporte dedicado",
+        "url": "https://lifeagentcmo.com/precios"
+      }
+    ],
+    "featureList": [
+      "Análisis automático de posicionamiento de marca desde URL",
+      "Gestión de campañas Meta Ads con OAuth",
+      "Gestión de campañas Google Ads con análisis de keywords",
+      "CRM con agente conversacional de IA",
+      "Análisis SEO técnico y GEO (Generative Engine Optimization)",
+      "Generación de contenido y calendarización en redes sociales",
+      "Chat CMO con conocimiento total del ecosistema de marketing",
+      "Monitoreo proactivo con alertas de problemas críticos",
+      "Seguimiento de metas: CPL, CPA, MRR",
+      "Vista Kanban de pipeline de leads"
+    ],
+    "screenshot": "https://lifeagentcmo.com/og-image.png",
+    "inLanguage": ["es", "es-MX"],
+    "availableLanguage": ["Spanish"],
+    "audience": {
+      "@type": "Audience",
+      "audienceType": "Small and medium businesses, entrepreneurs, marketing agencies",
+      "geographicArea": {
+        "@type": "Place",
+        "name": "Latin America"
+      }
+    }
+  },
+
+  {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "@id": "https://lifeagentcmo.com/#organization",
+    "name": "Life Agent",
+    "legalName": "Life Agent CMO",
+    "url": "https://lifeagentcmo.com",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://lifeagentcmo.com/logo.png",
+      "width": 200,
+      "height": 60
+    },
+    "description": "Life Agent crea soluciones de inteligencia artificial para marketing. Su producto principal, Life Agent CMO, es el primer CMO operado por IA para pequeñas y medianas empresas.",
+    "foundingDate": "2024",
+    "areaServed": [
+      {
+        "@type": "Place",
+        "name": "Mexico"
+      },
+      {
+        "@type": "Place",
+        "name": "Latin America"
+      },
+      {
+        "@type": "Place",
+        "name": "Spain"
+      }
+    ],
+    "knowsAbout": [
+      "Artificial Intelligence",
+      "Marketing Automation",
+      "Digital Marketing",
+      "Meta Ads",
+      "Google Ads",
+      "SEO",
+      "Generative Engine Optimization",
+      "CRM",
+      "Content Marketing",
+      "CMO as a Service"
+    ],
+    "sameAs": [
+      "https://www.linkedin.com/company/lifeagentcmo",
+      "https://twitter.com/lifeagentcmo",
+      "https://www.instagram.com/lifeagentcmo"
+    ]
+  },
+
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "@id": "https://lifeagentcmo.com/#website",
+    "url": "https://lifeagentcmo.com",
+    "name": "Life Agent CMO",
+    "description": "El primer CMO con inteligencia artificial para PYMEs. Gestiona tus campañas, responde a tus clientes y ejecuta tu estrategia de marketing — todo desde un solo lugar.",
+    "publisher": {
+      "@id": "https://lifeagentcmo.com/#organization"
+    },
+    "inLanguage": "es",
+    "potentialAction": {
+      "@type": "SearchAction",
+      "target": {
+        "@type": "EntryPoint",
+        "urlTemplate": "https://lifeagentcmo.com/blog?q={search_term_string}"
+      },
+      "query-input": "required name=search_term_string"
+    }
+  },
+
+  {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "@id": "https://lifeagentcmo.com/#webpage",
+    "url": "https://lifeagentcmo.com",
+    "name": "Life Agent CMO — Tu Primer CMO con Inteligencia Artificial",
+    "description": "Life Agent CMO conecta tus campañas de Meta Ads y Google Ads, analiza tu marketing en tiempo real, responde a tus clientes y ejecuta estrategia — sin contratar una agencia ni un CMO.",
+    "isPartOf": {
+      "@id": "https://lifeagentcmo.com/#website"
+    },
+    "about": {
+      "@id": "https://lifeagentcmo.com/#software"
+    },
+    "primaryImageOfPage": {
+      "@type": "ImageObject",
+      "url": "https://lifeagentcmo.com/og-image.png"
+    },
+    "inLanguage": "es",
+    "breadcrumb": {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://lifeagentcmo.com"
+        }
+      ]
+    }
+  },
+
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "@id": "https://lifeagentcmo.com/#faqpage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "¿En qué se diferencia Life Agent CMO de contratar una agencia de marketing?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Una agencia envía reportes cada dos semanas, no tiene acceso en tiempo real a tus datos, no trabaja de madrugada cuando tu campaña está fallando, y cobra 5 a 20 veces más. Life Agent CMO tiene acceso directo a todas tus plataformas, monitorea 24/7, y ejecuta acciones — no solo recomienda."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "¿Qué tan difícil es configurar Life Agent CMO?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Ingresa tu URL, crea tu cuenta y conecta tus plataformas via OAuth (Meta y Google Ads en menos de 2 minutos). El agente genera automáticamente toda tu estrategia de marca y empieza a analizar tus campañas de inmediato. Sin setup técnico, sin equipo de IT."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "¿El agente de IA puede tomar decisiones de marketing sin supervisión?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "El usuario controla el nivel de autonomía. El agente puede hacer recomendaciones y esperar aprobación, o ejecutar acciones rutinarias automáticamente. Las decisiones de presupuesto significativas siempre pasan por el usuario primero. El agente trabaja alineado a las metas definidas por el negocio."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "¿Life Agent CMO funciona si soy nuevo en marketing digital?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Es donde Life Agent CMO brilla más. No necesitas conocer términos como CPL o ROAS — el agente explica todo en lenguaje simple y proporciona acciones concretas. Es como tener un CMO experto que también tiene la paciencia de explicar cada decisión."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "¿Qué plataformas de redes sociales soporta Life Agent CMO?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Actualmente soporta Meta Ads (Facebook e Instagram) y Google Ads con integración completa via OAuth. LinkedIn, X (Twitter) y TikTok están en desarrollo. Los clientes Founding Member tendrán acceso prioritario a estas integraciones sin costo adicional."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "¿Qué es GEO y por qué Life Agent CMO lo incluye?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "GEO (Generative Engine Optimization) es la optimización para aparecer en respuestas de motores de búsqueda basados en IA como ChatGPT, Perplexity, Google AI Overviews y Claude. Life Agent CMO incluye análisis GEO porque el tráfico desde búsquedas con IA está creciendo rápidamente y las PYMEs necesitan visibilidad en estos canales, no solo en Google tradicional."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "¿Cuánto cuesta Life Agent CMO comparado con una agencia de marketing?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Life Agent CMO cuesta desde $99 USD al mes en el plan Starter. Una agencia de marketing digital para PYMEs en México cuesta entre $5,000 y $15,000 MXN al mes (aprox. $250–$750 USD). El plan Growth de Life Agent CMO a $249 USD reemplaza funciones que típicamente requieren una agencia completa más herramientas de analytics separadas."
+        }
+      }
+    ]
+  },
+
+  {
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    "name": "Funciones principales de Life Agent CMO",
+    "description": "Lista completa de capacidades del CMO con IA de Life Agent",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "name": "Gestión de campañas Meta Ads con IA",
+        "description": "Análisis profundo de campañas de Facebook e Instagram Ads, métricas en tiempo real, reportes automáticos y recomendaciones accionables via OAuth."
+      },
+      {
+        "@type": "ListItem",
+        "position": 2,
+        "name": "Gestión de Google Ads y análisis de keywords",
+        "description": "Conexión directa con Google Ads para análisis de campañas, investigación de palabras clave, y configuración asistida por el agente de IA."
+      },
+      {
+        "@type": "ListItem",
+        "position": 3,
+        "name": "CRM con agente conversacional de IA",
+        "description": "Agente de IA que responde a clientes potenciales, agenda citas, realiza cotizaciones y da seguimiento. Vista Kanban del pipeline de ventas."
+      },
+      {
+        "@type": "ListItem",
+        "position": 4,
+        "name": "Análisis SEO y GEO",
+        "description": "Auditoría completa de SEO técnico y GEO (Generative Engine Optimization) con acciones concretas y generación de contenido optimizado."
+      },
+      {
+        "@type": "ListItem",
+        "position": 5,
+        "name": "Chat con CMO de IA",
+        "description": "Chat conversacional con acceso completo al estado de campañas, clientes, métricas y estrategia. El agente monitorea y alerta proactivamente sobre problemas críticos."
+      },
+      {
+        "@type": "ListItem",
+        "position": 6,
+        "name": "Creative Studio y calendarización",
+        "description": "Creación de contenido para redes sociales con publicación directa o calendarización automática en las plataformas conectadas."
+      }
+    ]
+  }
+]
