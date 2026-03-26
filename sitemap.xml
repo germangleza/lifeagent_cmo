@@ -4,83 +4,84 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml"
   xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
 >
-
+ 
   <!-- ─── Homepage ─────────────────────────────────────────── -->
   <url>
-    <loc>https://lifeagentcmo.com/</loc>
-    <lastmod>2025-01-01</lastmod>
+    <loc>https://lifeagent-cmo.vercel.app/</loc>
+    <lastmod>2025-03-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
-    <xhtml:link rel="alternate" hreflang="es" href="https://lifeagentcmo.com/"/>
-    <xhtml:link rel="alternate" hreflang="es-MX" href="https://lifeagentcmo.com/"/>
-    <xhtml:link rel="alternate" hreflang="es-419" href="https://lifeagentcmo.com/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://lifeagentcmo.com/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://lifeagent-cmo.vercel.app/"/>
+    <xhtml:link rel="alternate" hreflang="es-MX" href="https://lifeagent-cmo.vercel.app/"/>
+    <xhtml:link rel="alternate" hreflang="es-419" href="https://lifeagent-cmo.vercel.app/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://lifeagent-cmo.vercel.app/"/>
   </url>
-
+ 
   <!-- ─── GEO / AI Discovery files ────────────────────────── -->
   <url>
-    <loc>https://lifeagentcmo.com/llms.txt</loc>
-    <lastmod>2025-01-01</lastmod>
+    <loc>https://lifeagent-cmo.vercel.app/llms.txt</loc>
+    <lastmod>2025-03-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
-
-  <!-- ─── Core pages (add as you build them) ───────────────── -->
+ 
+  <!-- ─── Core pages (añadir conforme se construyan) ───────── -->
   <url>
-    <loc>https://lifeagentcmo.com/funciones</loc>
-    <lastmod>2025-01-01</lastmod>
+    <loc>https://lifeagent-cmo.vercel.app/funciones</loc>
+    <lastmod>2025-03-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-
+ 
   <url>
-    <loc>https://lifeagentcmo.com/precios</loc>
-    <lastmod>2025-01-01</lastmod>
+    <loc>https://lifeagent-cmo.vercel.app/precios</loc>
+    <lastmod>2025-03-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
-
+ 
   <url>
-    <loc>https://lifeagentcmo.com/como-funciona</loc>
-    <lastmod>2025-01-01</lastmod>
+    <loc>https://lifeagent-cmo.vercel.app/como-funciona</loc>
+    <lastmod>2025-03-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
-
+ 
   <url>
-    <loc>https://lifeagentcmo.com/blog</loc>
-    <lastmod>2025-01-01</lastmod>
+    <loc>https://lifeagent-cmo.vercel.app/blog</loc>
+    <lastmod>2025-03-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
-
-  <!-- ─── Blog articles (GEO-targeted, add as published) ──── -->
+ 
+  <!-- ─── Blog articles GEO-targeted ──────────────────────── -->
   <url>
-    <loc>https://lifeagentcmo.com/blog/que-es-un-cmo-con-ia</loc>
-    <lastmod>2025-01-01</lastmod>
+    <loc>https://lifeagent-cmo.vercel.app/blog/que-es-un-cmo-con-ia</loc>
+    <lastmod>2025-03-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
-
+ 
   <url>
-    <loc>https://lifeagentcmo.com/blog/como-reducir-cpl-meta-ads</loc>
-    <lastmod>2025-01-01</lastmod>
+    <loc>https://lifeagent-cmo.vercel.app/blog/como-reducir-cpl-meta-ads</loc>
+    <lastmod>2025-03-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
-
+ 
   <url>
-    <loc>https://lifeagentcmo.com/blog/alternativas-agencia-marketing-pymes</loc>
-    <lastmod>2025-01-01</lastmod>
+    <loc>https://lifeagent-cmo.vercel.app/blog/alternativas-agencia-marketing-pymes</loc>
+    <lastmod>2025-03-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
-
+ 
   <url>
-    <loc>https://lifeagentcmo.com/blog/geo-generative-engine-optimization-guia</loc>
-    <lastmod>2025-01-01</lastmod>
+    <loc>https://lifeagent-cmo.vercel.app/blog/geo-generative-engine-optimization-guia</loc>
+    <lastmod>2025-03-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
-
+ 
 </urlset>
+ 
